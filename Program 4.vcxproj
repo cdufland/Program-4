@@ -138,6 +138,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Borrow.cpp" />
+    <ClCompile Include="ClassMovie.cpp" />
+    <ClCompile Include="Customer.cpp" />
+    <ClCompile Include="Drama.cpp" />
+    <ClCompile Include="Funny.cpp" />
+    <ClCompile Include="HashTable.cpp" />
+    <ClCompile Include="History.cpp" />
+    <ClCompile Include="InventoryManager.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Movie.cpp" />
+    <ClCompile Include="Return.cpp" />
+    <ClCompile Include="TransactionFactory.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Borrow.h" />
+    <ClInclude Include="ClassMovie.h" />
+    <ClInclude Include="Customer.h" />
+    <ClInclude Include="Drama.h" />
+    <ClInclude Include="Funny.h" />
+    <ClInclude Include="HashTable.h" />
+    <ClInclude Include="History.h" />
+    <ClInclude Include="InventoryManager.h" />
+    <ClInclude Include="Movie.h" />
+    <ClInclude Include="Return.h" />
+    <ClInclude Include="TransactionFactory.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
