@@ -139,7 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Borrow.cpp" />
-    <ClCompile Include="ClassMovie.cpp" />
+    <ClCompile Include="ClassicMovie.cpp" />
     <ClCompile Include="Customer.cpp" />
     <ClCompile Include="Drama.cpp" />
     <ClCompile Include="Funny.cpp" />
@@ -153,6 +153,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Borrow.h" />
+    <ClInclude Include="ClassicMovie.h" />
     <ClInclude Include="ClassMovie.h" />
     <ClInclude Include="Customer.h" />
     <ClInclude Include="Drama.h" />
